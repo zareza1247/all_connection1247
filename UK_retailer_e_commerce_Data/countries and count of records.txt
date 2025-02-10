@@ -1,0 +1,46 @@
+SELECT Country, COUNT(*) AS CountPercountry
+FROM ecom_d_uk
+WHERE Country IN ('United Kingdom', 'France', 'Australia', 'Netherlands', 'Germany', 'Norway', 'EIRE', 'Switzerland', 'Spain', 'Poland', 'Portugal', 'Italy', 'Belgium', 'Lithuania', 'Japan', 'Iceland', 'Channel Islands', 'Denmark', 'Cyprus', 'Sweden', 'Austria', 'Israel', 'Finland', 'Bahrain', 'Greece', 'Hong Kong', 'Singapore', 'Lebanon', 'United Arab Emirates', 'Saudi Arabia', 'Czech Republic', 'Canada', 'Unspecified', 'Brazil', 'USA', 'European Community', 'Malta', 'RSA')
+GROUP BY Country
+order by CountPercountry desc;
+
+
+Countries       count of records
+United Kingdom	494024
+Germany	9495
+France	8557
+EIRE	8196
+Spain	2533
+Netherlands	2371
+Belgium	2069
+Switzerland	2002
+Portugal	1519
+Australia	1259
+Norway	1086
+Italy	803
+Channel Islands	758
+Finland	695
+Cyprus	622
+Sweden	462
+Unspecified	446
+Austria	401
+Denmark	389
+Japan	358
+Poland	341
+Israel	297
+USA	291
+Hong Kong	288
+Singapore	229
+Iceland	182
+Canada	151
+Greece	146
+Malta	127
+United Arab Emirates	68
+European Community	61
+RSA	58
+Lebanon	45
+Lithuania	35
+Brazil	32
+Czech Republic	30
+Bahrain	19
+Saudi Arabia	10

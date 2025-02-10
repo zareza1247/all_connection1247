@@ -1,0 +1,9 @@
+i have an e-commerce dataset from the UCI machine learning repository. it is said to be used for time series, clustering, classification and more analysis. the columns include InvoiceNo, stockCode, description, quantity, invoicedate, unitprice,  customerID, Country
+
+
+
+Exploratory Analysis
+Sales Trends Over Time
+Analyze sales by date to identify seasonal patterns or trends.
+- Total sales by day, month, or year.
+- Peak sales periods.

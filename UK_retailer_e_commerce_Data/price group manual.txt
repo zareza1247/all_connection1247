@@ -1,0 +1,17 @@
+SELECT *,
+       CASE 
+           WHEN UnitPrice BETWEEN -11062.06 AND -7000 THEN 'Group 1'
+           WHEN UnitPrice BETWEEN -7000 AND -3000 THEN 'Group 2' --
+           WHEN UnitPrice BETWEEN -3000 AND 1000 THEN 'Group 3'
+           WHEN UnitPrice BETWEEN 1000 AND 5000 THEN 'Group 4' --
+           WHEN UnitPrice BETWEEN 5000 AND 9000 THEN 'Group 5' --
+           WHEN UnitPrice BETWEEN 9000 AND 13000 THEN 'Group 6' --
+           WHEN UnitPrice BETWEEN 13000 AND 17000 THEN 'Group 7' --
+           WHEN UnitPrice BETWEEN 17000 AND 21000 THEN 'Group 8' --
+           WHEN UnitPrice BETWEEN 21000 AND 25000 THEN 'Group 9' --
+           ELSE 'Group 10'
+       END AS PriceGroup
+FROM ecom_d_uk
+order by PriceGroup asc;
+
+only between 1,3 and 10 exist
