@@ -1,0 +1,88 @@
+here is the key objectives of my entire project
+
+A: overview/dashboard summary
+
+B: sales analytics
+   B1: revenue and sales trends overtime
+         - Analyze sales performance by day, week, month, quarter, or year.
+         - Identify peak sales periods (e.g., holiday spikes, seasonal trends).
+         - Detect slumps in sales and investigate possible reasons (e.g., market conditions, stock shortages). 
+   B2: order volume and frequency analysis 
+         - Understand how often orders occur and the average size of an order.
+         - Detect low vs. high purchase frequency periods.
+customer analytics 
+         - Investigate high-volume purchasing trends (bulk purchases, repeat customers)
+   B3: refund and return analysis
+        - Identify which products are returned most often.
+        - Track return rates by product, category, or time period.
+        - Investigate reasons for high return rates (product issues, sizing problems, etc.).
+               *. Optional Enhancements
+                Time-Based Return Analysis: Add a date column to the analysis to track return rates over time (e.g., by month).
+
+                Add Total Counts: Add columns like Total Units Returned and Total Units Sold to help contextualize return rates.
+
+                Top Return Categories/Products: Show top 5–10 products/categories by return rate, or flag those exceeding a threshold (e.g., >10%).
+   B4: Impact of Discounts & Promotions
+        - Track sales with vs. without discounts
+        - Understand how discounts impact revenue and profit margins
+        - Evaluate if promotions increase sales volume or just lower margins.
+
+C: customer analytics 
+
+D: product analytics
+
+E: traffic and marketing analytics
+
+F: financial performance 
+
+You said:
+I would like to show you what ive come up with for that B3 part 2
+
+1: I grouped the product by category to see the sum of quantity per category
+
+# Group by Product Category (assuming 'Category' column is available)
+return_data = df_main[df_main['Quantity'] < 0]  # Only negative quantity for returns
+category_return = return_data.groupby('Category')['Quantity'].sum().reset_index()
+category_return = category_return.sort_values(by='Quantity', ascending=False)  # Sort by total return volume
+category_return
+
+2: I made Product-Level Return Rate Calculation
+
+# Grouping by product and calculating the total quantity sold for each product
+total_sales = df_main.groupby('Description')['Quantity'].sum().reset_index()  # Total sales by product
+
+# Ensure only positive quantities (sales) are included in total sales
+total_sales = total_sales[total_sales['Quantity'] > 0]
+
+# Merging the return data with the total sales data
+merged_data = return_data.merge(total_sales, on='Description', suffixes=('_returned', '_sold'))
+
+# Calculate the return rate for each product
+merged_data['Return Rate'] = merged_data['Quantity_returned'] / merged_data['Quantity_sold'] * 100
+
+# Group by product and calculate the average return rate
+return_rate_by_product = merged_data.groupby('Description')['Return Rate'].mean().reset_index()
+
+# Now, return_rate_by_product is a DataFrame with 'Description' and 'Return Rate' as separate columns
+print(return_rate_by_product)
+
+3: i made Category-Level Return Rate Calculation
+
+# Grouping by category and calculating the total quantity sold for each category
+total_sales_category = df_main.groupby('Category')['Quantity'].sum().reset_index()  # Total sales by category
+
+# Ensure only positive quantities (sales) are included in total sales
+total_sales_category = total_sales_category[total_sales_category['Quantity'] > 0]
+
+# Merging the return data with the total sales data
+return_data_category = return_data.merge(total_sales_category, on='Category', suffixes=('_returned', '_sold'))
+
+# Calculate the return rate for each category
+return_data_category['Return Rate'] = return_data_category['Quantity_returned'] / return_data_category['Quantity_sold'] * 100
+
+# Group by category and calculate the average return rate
+return_rate_by_category = return_data_category.groupby('Category')['Return Rate'].mean().reset_index()
+
+print(return_rate_by_category)
+
+g: trends and anomalies 

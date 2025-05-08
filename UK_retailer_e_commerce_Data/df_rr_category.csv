@@ -1,0 +1,129 @@
+Category;Return Rate
+Accessories;-0.004776839470835518
+Accessories, Gifts Jewelry;-0.07166856481924976
+Accessories, Gifts Jewelry, Color, Size, Home Goods;-1.692936368943374
+Accessories, Home Goods, Gifts Jewelry;-0.011488523848408044
+Accessories, Home Goods, Stationary;-0.016511471837210724
+Accessories, Kitchen Appliances, Color, Stationary, Home Goods;-1.8320610687022902
+Accessories, Stationary, Size, Seasonal products, Home Goods;-0.38187372708757633
+Accessories, Toys, Home Goods, Stationary;-0.051150895140664954
+Beauty Products;-0.07704160246533129
+Clothing, Home Goods;-0.13258012451002998
+Color;-0.00356724870327814
+Color, Accessories;-0.02056378106798275
+Color, Accessories, Gifts Jewelry;-2.167630057803468
+Color, Accessories, Home Goods, Gifts Jewelry;-0.3475147430497051
+Color, Accessories, Home Goods, Stationary;-0.06368428099301675
+Color, Accessories, Stationary;-0.7971829608255491
+Color, Beauty Products;-0.1283422459893048
+Color, Clothing;-2.072538860103627
+Color, Electronics;-0.7633587786259541
+Color, Gifts Jewelry;-0.38466090661616764
+Color, Home Goods;-0.002732514774276115
+Color, Home Goods, Accessories;-0.02021315339535878
+Color, Home Goods, Beauty Products;-3.61794500723589
+Color, Home Goods, Gifts Jewelry;-0.3076923076923077
+Color, Home Goods, Sports Equipment, laundry appliance;-0.24271844660194172
+Color, Home Goods, Stationary;-0.02125347362365636
+Color, Sports Equipment, Home Goods;-0.12893982808022922
+Color, Stationary;-1.0508027130827522
+Color, Toys, Home Goods, Accessories;-5.932203389830509
+Gifts Jewelry;-0.05594551775733838
+Home Goods;-0.0014942468843404221
+Home Goods, Accessories;-0.005977280787078475
+Home Goods, Beauty Products;-0.02118924645742286
+Home Goods, Gifts Jewelry;-0.012072352999419047
+Home Goods, Stationary;-0.13264731726934972
+Kitchen Appliances;-0.006151277827557819
+Kitchen Appliances, Accessories;-0.07056599251734191
+Kitchen Appliances, Accessories, Home Goods, Gifts Jewelry;-0.06172839506172839
+Kitchen Appliances, Accessories, Home Goods, Stationary;-0.06907422001761625
+Kitchen Appliances, Color;-0.015847100779570824
+Kitchen Appliances, Color, Home Goods;-0.006108622747478381
+Kitchen Appliances, Color, Home Goods, Accessories;-0.012895527717763765
+Kitchen Appliances, Color, Home Goods, Gifts Jewelry;-0.5970149253731344
+Kitchen Appliances, Color, Home Goods, Stationary;-0.009386066905127501
+Kitchen Appliances, Color, Size;-0.09799118079372857
+Kitchen Appliances, Color, Stationary;-0.1635322976287817
+Kitchen Appliances, Color, Stationary, Seasonal products, Home Goods;-0.10565240359218171
+Kitchen Appliances, Gifts Jewelry;-0.19530253315845783
+Kitchen Appliances, Home Goods;-0.002499425381741713
+Kitchen Appliances, Home Goods, Accessories;-0.06352958342616406
+Kitchen Appliances, Home Goods, Gifts Jewelry;-0.044586286197024455
+Kitchen Appliances, Home Goods, Stationary;-0.008865223285586914
+Kitchen Appliances, Seasonal products;-9.948979591836736
+Kitchen Appliances, Seasonal products, Color;-0.5119453924914675
+Kitchen Appliances, Seasonal products, Color, Home Goods;-0.4154204054503157
+Kitchen Appliances, Seasonal products, Home Goods;-0.04107569352636188
+Kitchen Appliances, Seasonal products, Home Goods, Stationary;-0.09917978319299395
+Kitchen Appliances, Seasonal products, Stationary;-0.07874015748031496
+Kitchen Appliances, Size;-0.38167938931297707
+Kitchen Appliances, Size, Stationary;-1.0617760617760617
+Kitchen Appliances, Sports Equipment, Home Goods;-0.08427876823338736
+Kitchen Appliances, Stationary;-1.3570564396727496
+Kitchen Appliances, Toys;-0.04055797496416767
+Kitchen Appliances, Toys, Home Goods;-0.021011309072577446
+Kitchen Appliances, Toys, Home Goods, Stationary;-0.27446300715990457
+Kitchen Appliances, laundry appliance;-0.454318522216675
+Other;-0.0072211126218957545
+Seasonal products;-0.025085803432137288
+Seasonal products, Accessories;-0.2640460591621997
+Seasonal products, Accessories, Home Goods, Stationary;-0.3084967320261438
+Seasonal products, Accessories, Stationary;-0.07401924500370095
+Seasonal products, Color;-0.2727186492126731
+Seasonal products, Color, Home Goods;-0.718336483931947
+Seasonal products, Color, Home Goods, Accessories;-0.4291845493562232
+Seasonal products, Color, Stationary;-0.16980549552330965
+Seasonal products, Home Goods;-0.026703760192842766
+Seasonal products, Home Goods, Accessories;-0.3280616144394144
+Seasonal products, Home Goods, Gifts Jewelry;-1.9160583941605838
+Seasonal products, Home Goods, Stationary;-0.032578577934066905
+Seasonal products, Sports Equipment, Home Goods;-0.013035156771604979
+Seasonal products, Stationary;-0.07022555496042372
+Seasonal products, Toys, Stationary;-0.5107624954396206
+Size;-0.9027584807206989
+Size, Accessories;-0.38893690579083834
+Size, Accessories, Gifts Jewelry;-0.11723329425556857
+Size, Accessories, Home Goods, Gifts Jewelry;-0.4424778761061947
+Size, Color;-0.034481060046303136
+Size, Color, Accessories;-0.27239709443099275
+Size, Color, Home Goods;-0.06129757283119509
+Size, Color, Home Goods, Accessories;-0.2447575577164781
+Size, Color, Sports Equipment;-2.857142857142857
+Size, Color, Stationary;-0.012333497779970401
+Size, Color, Toys, Home Goods;-0.3156441112645492
+Size, Gifts Jewelry;-0.10427528675703858
+Size, Home Goods;-0.009556407132039448
+Size, Home Goods, Accessories;-0.018767203269663857
+Size, Home Goods, Gifts Jewelry;-1.0791366906474822
+Size, Home Goods, Stationary;-0.6939090208172706
+Size, Home Goods, laundry appliance;-1.4184397163120568
+Size, Kitchen Appliances, Color, Home Goods;-0.12138913536429063
+Size, Kitchen Appliances, Home Goods;-0.01354869968882479
+Size, Kitchen Appliances, Home Goods, Accessories;-0.4443405051449953
+Size, Kitchen Appliances, Home Goods, Stationary;-0.291970802919708
+Size, Seasonal products, Accessories;-0.10325245224574084
+Size, Seasonal products, Home Goods;-5.092838196286472
+Size, Stationary;-0.051340903599903356
+Sports Equipment;-0.04533569500674763
+Sports Equipment, Gifts Jewelry;-0.6091370558375634
+Sports Equipment, Home Goods;-0.07625908618899273
+Sports Equipment, Home Goods, Stationary;-1.744186046511628
+Sports Equipment, laundry appliance, Gifts Jewelry;-0.09980039920159679
+Stationary;-0.01112692799481267
+Stationary, Accessories, Gifts Jewelry;-0.410958904109589
+Stationary, Accessories, Home Goods, Gifts Jewelry;-0.2090032154340836
+Stationary, Home Goods, Gifts Jewelry;-0.06573298991199829
+Stationary, Kitchen Appliances, Gifts Jewelry;-0.6211180124223602
+Stationary, Kitchen Appliances, Home Goods, Gifts Jewelry;-0.3671562082777036
+Stationary, Seasonal products, Home Goods, Gifts Jewelry;-1.5664845173041895
+Stationary, Size, Gifts Jewelry;-0.9093492469451548
+Toys;-0.03356458094789071
+Toys, Accessories;-0.5753278030505753
+Toys, Accessories, Stationary;-0.03720238095238095
+Toys, Home Goods;-0.01566608793483735
+Toys, Home Goods, Accessories;-0.027468104470795424
+Toys, Home Goods, Stationary;-0.08561156924076857
+Toys, Stationary;-0.03559969717725946
+cooling appliance, Stationary;-6.650979638878217
+laundry appliance, Kitchen Appliances, Color, Sports Equipment, Home Goods;-0.06863417982155114

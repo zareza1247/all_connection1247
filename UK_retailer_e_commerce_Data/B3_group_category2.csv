@@ -1,0 +1,131 @@
+Category;Quantity
+Kitchen Appliances, Seasonal products, Stationary;-1
+Color, Electronics;-1
+Sports Equipment, laundry appliance, Gifts Jewelry;-1
+laundry appliance, Kitchen Appliances, Color, Sports Equipment, Home Goods;-1
+Size, Color, Stationary;-1
+Seasonal products, Accessories, Stationary;-1
+Size, Accessories, Gifts Jewelry;-2
+Size, Accessories, Home Goods, Gifts Jewelry;-2
+Color, Home Goods, Sports Equipment, laundry appliance;-2
+Beauty Products;-2
+Kitchen Appliances, Accessories, Home Goods, Gifts Jewelry;-2
+Kitchen Appliances, Color, Size;-2
+Toys, Accessories, Stationary;-2
+Size, Seasonal products, Accessories;-2
+Kitchen Appliances, Seasonal products, Color;-3
+Size, Home Goods, Gifts Jewelry;-3
+Kitchen Appliances, Color, Stationary, Seasonal products, Home Goods;-4
+Size, Home Goods, laundry appliance;-4
+Size, Gifts Jewelry;-4
+Kitchen Appliances, Color, Home Goods, Gifts Jewelry;-4
+Sports Equipment, Home Goods, Stationary;-6
+Color, Beauty Products;-6
+Size, Color, Sports Equipment;-6
+Color, Toys, Home Goods, Accessories;-7
+Home Goods, Beauty Products;-8
+Kitchen Appliances, Size;-10
+Seasonal products, Color, Stationary;-11
+Color, Clothing;-12
+Stationary, Kitchen Appliances, Gifts Jewelry;-12
+Stationary, Accessories, Gifts Jewelry;-12
+Accessories, Kitchen Appliances, Color, Stationary, Home Goods;-12
+Kitchen Appliances, Sports Equipment, Home Goods;-13
+Stationary, Accessories, Home Goods, Gifts Jewelry;-13
+Accessories, Toys, Home Goods, Stationary;-14
+Seasonal products, Toys, Stationary;-14
+Color, Accessories, Gifts Jewelry;-15
+Accessories, Stationary, Size, Seasonal products, Home Goods;-15
+Seasonal products, Color, Home Goods, Accessories;-16
+Size, Color, Toys, Home Goods;-16
+Size, Kitchen Appliances, Home Goods, Stationary;-16
+Size, Accessories;-18
+Seasonal products, Home Goods, Gifts Jewelry;-21
+Stationary, Kitchen Appliances, Home Goods, Gifts Jewelry;-22
+Kitchen Appliances, Color, Stationary;-24
+Kitchen Appliances, Seasonal products, Color, Home Goods;-25
+Size, Color, Accessories;-27
+Size, Color;-28
+Accessories, Gifts Jewelry, Color, Size, Home Goods;-29
+Stationary, Size, Gifts Jewelry;-32
+Color, Accessories, Home Goods, Gifts Jewelry;-33
+Sports Equipment, Gifts Jewelry;-36
+Size, Color, Home Goods, Accessories;-37
+Kitchen Appliances, Home Goods, Gifts Jewelry;-38
+Seasonal products, Sports Equipment, Home Goods;-41
+Toys, Accessories;-43
+Kitchen Appliances, Toys, Home Goods, Stationary;-46
+Sports Equipment, Home Goods;-47
+Stationary, Home Goods, Gifts Jewelry;-49
+Color, Home Goods, Beauty Products;-50
+Kitchen Appliances, Accessories;-53
+Size, Kitchen Appliances, Home Goods, Accessories;-57
+Size, Home Goods, Accessories;-63
+Size, Stationary;-68
+Color, Sports Equipment, Home Goods;-72
+Seasonal products, Color, Home Goods;-76
+Toys, Stationary;-79
+Kitchen Appliances, laundry appliance;-91
+Size, Seasonal products, Home Goods;-96
+Size, Home Goods, Stationary;-108
+Seasonal products, Color;-115
+Clothing, Home Goods;-115
+Accessories, Home Goods, Gifts Jewelry;-130
+Kitchen Appliances, Size, Stationary;-143
+Kitchen Appliances, Accessories, Home Goods, Stationary;-149
+Kitchen Appliances, Seasonal products, Home Goods;-151
+Kitchen Appliances, Seasonal products;-156
+Color, Home Goods, Gifts Jewelry;-161
+Color, Gifts Jewelry;-195
+Seasonal products;-201
+Accessories, Gifts Jewelry;-202
+Kitchen Appliances, Toys;-221
+Size, Color, Home Goods;-228
+Stationary, Seasonal products, Home Goods, Gifts Jewelry;-258
+Seasonal products, Accessories;-266
+Kitchen Appliances, Toys, Home Goods;-278
+Seasonal products, Accessories, Home Goods, Stationary;-295
+Sports Equipment;-301
+Toys, Home Goods;-303
+Color, Accessories, Stationary;-326
+Size, Kitchen Appliances, Home Goods;-335
+Shipping;-360
+Kitchen Appliances, Seasonal products, Home Goods, Stationary;-400
+Toys, Home Goods, Accessories;-418
+Home Goods, Gifts Jewelry;-506
+Seasonal products, Home Goods, Accessories;-558
+Color, Payment;-576
+Toys;-598
+Seasonal products, Stationary;-708
+Kitchen Appliances, Color;-714
+Color, Accessories, Home Goods, Stationary;-723
+Color, Home Goods, Stationary;-733
+Size, Home Goods;-762
+Size, Kitchen Appliances, Color, Home Goods;-788
+Kitchen Appliances, Color, Home Goods, Stationary;-846
+Color, Accessories;-962
+Seasonal products, Home Goods, Stationary;-1184
+Color, Home Goods, Accessories;-1367
+Seasonal products, Home Goods;-1373
+cooling appliance, Stationary;-1385
+Stationary;-1530
+Kitchen Appliances, Stationary;-1604
+Toys, Home Goods, Stationary;-1686
+Color;-1985
+Gifts Jewelry;-2034
+Kitchen Appliances, Color, Home Goods, Accessories;-2369
+Color, Stationary;-2643
+Accessories, Home Goods, Stationary;-2793
+Kitchen Appliances, Home Goods, Stationary;-2899
+Kitchen Appliances;-3109
+Accessories;-3740
+Home Goods, Accessories;-3880
+Color, Home Goods;-3979
+Kitchen Appliances, Gifts Jewelry;-4363
+Other;-7042
+Kitchen Appliances, Color, Home Goods;-7169
+Kitchen Appliances, Home Goods, Accessories;-11329
+Home Goods;-12426
+Kitchen Appliances, Home Goods;-13770
+Size;-76151
+Home Goods, Stationary;-84173
